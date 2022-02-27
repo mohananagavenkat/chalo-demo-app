@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Lakshmipuram, Guntur",
+    "lat": 16.3166896,
+    "long": 80.4203424
+  },
+  {
+    "id": 2,
+    "name": "vidyanagar, Guntur",
+    "lat": 16.3193318,
+    "long": 80.4214822
+  },
+  {
+    "id": 3,
+    "name": "pattabhipuram, Guntur",
+    "lat": 16.3132383,
+    "long": 80.4271203
+  },
+  {
+    "id": 4,
+    "name": "gujjanagundla, Guntur",
+    "lat": 16.3251957,
+    "long": 80.4081481
+  },
+  {"id": 5, "name": "busstand, Guntur", "lat": 16.2957664, "long": 80.4541821}
+]

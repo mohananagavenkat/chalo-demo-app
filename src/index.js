@@ -3,10 +3,26 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {
+  BrowserRouter as Router,
+} from "react-router-dom";
+import { ThemeProvider } from '@material-ui/styles';
+
+import theme from './theme'
+import { RoutesContextProvider } from './context/RoutesContext';
+import { StopsContextProvider } from './context/StopContext';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Router>
+      <ThemeProvider theme={theme}>
+        <RoutesContextProvider>
+          <StopsContextProvider>
+            <App />
+          </StopsContextProvider>
+        </RoutesContextProvider>
+      </ThemeProvider>
+    </Router>
   </React.StrictMode>,
   document.getElementById('root')
 );
