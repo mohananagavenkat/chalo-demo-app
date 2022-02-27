@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chalo-demo-app/static/css/main.073c9b0a.css",
+    "main.js": "/chalo-demo-app/static/js/main.fb5f4fbd.js",
+    "static/js/787.241a80d3.chunk.js": "/chalo-demo-app/static/js/787.241a80d3.chunk.js",
+    "index.html": "/chalo-demo-app/index.html",
+    "main.073c9b0a.css.map": "/chalo-demo-app/static/css/main.073c9b0a.css.map",
+    "main.fb5f4fbd.js.map": "/chalo-demo-app/static/js/main.fb5f4fbd.js.map",
+    "787.241a80d3.chunk.js.map": "/chalo-demo-app/static/js/787.241a80d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fb5f4fbd.js"
+  ]
+}
