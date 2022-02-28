@@ -47,5 +47,5 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepage": "https://mohananagavenkat.github.io/chalo-demo-app"
+  "homepage": "."
 }
